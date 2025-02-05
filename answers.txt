@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to finance. For example, for risk assessment or fraud detection, banks will accumulate a lot of data about their customers so that their data science models can analyze transaction patterns and flag suspicious activities.
